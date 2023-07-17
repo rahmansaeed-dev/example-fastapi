@@ -1,0 +1,5 @@
+__pycache__
+venv/
+myenv/
+.env
+Postman-win64-Setup.exe
